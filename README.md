@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Schemas and helpers for x12i docify libraries (catalog, use-cases, site pages, manifests).
-- A Docify integration needs to reuse the capabilities of @x12i/docify-core inside a larger application.
+- Validate a documentation catalog or use-case manifest.
+- Share content schemas between bundle generation and the consuming reader.
 
 ## Links
 
